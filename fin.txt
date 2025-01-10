@@ -1,0 +1,143 @@
+Test file.
+%f5eUHOEc !fxvl0RK7r @NFE5tUSpP3
+$RPcGH 10lN0G/ KoxXoC2IGx= km7- n3A 0X9oO8bU wA5DIE
+fEPMfQQ5 BQLj uTOwbP gR0nrT HmLhj 
+
+OKbA iYvuW fy0jE8N 18s1bjTM GGkpcka A74HbbP wMKzZs As9r9VV HbbI6Gm
+iZOtKi nnRBh 1iu2tB AZ4dG1NI rlLdSp QBVGA rKA3d ldD4r
+kaA5Z J3WJ AF6BD mO0pj CiQv ENKz rp8YQu0j TDjUHSZ
+qClJKfM XHxyv Q1vKp TiOJKGgI0 
+
+CR3r37X5 Wneu1bP 2IBS4LQ mN7B9x MU0RM2Zn oLjco 0KAOshgKacV t0ZztkWq2
+O7orBzz0 EaM6tb xsC58K CtZiC6c WDYanVkp9 
+qDjaN r2VFi JjlOQ TEHYrxmt qtDpft mXuL Yz1ST agi3R4O kpulFy
+JQmidWH1 NZFb ILGS mceo8 SLcyk qFG53 QsxT55 AEP34S pwl3q LE3GVja
+UibFOGRB kxjliSDgWfsOAIr AvXDZvEbx miHaPUU 
+KWuRcwZD dbrUGyNzuuNc XUFGKsht sxlYBNEaUJ 
+eEkVJ gOBSoRrYQlqjIbTFEjk
+
+1566749 44704 67894 1672020 05188057
+86520 15872 24669189 45062520 061556 
+82896 511817 4115 35226 23161 9022 882075
+
+1. Introduction to C
+1.13 zyLab training: Basics - Lab
+1.14 zyLab training: Interleaved input / output - Lab
+1.15 zyLab training*: One large program - Lab
+
+2. Variables / Assignments
+2.2 Variables (int)
+2.3 Identifiers
+2.4 Arithmetic expressions (general)
+2.5 Arithmetic expressions (int)
+2.6 Example: Health data
+2.7 Floating-point numbers (double)
+2.8 Scientific notation for floating-point literals
+2.9 Constant variables
+2.10 Using math functions
+2.11 Integer division and modulo
+2.12 Type conversions
+2.13 Binary
+2.14 Characters
+2.15 Strings
+2.16 Integer overflow
+2.17 Numeric data types
+2.18 Unsigned
+2.19 Random numbers
+2.20 The printf and scanf functions
+2.22 Style guidelines
+2.23 C example: Salary calculation with variables
+2.24 C example: Married-couple names with variables
+
+3. Branches
+3.2 Detecting equal values with branches
+3.5 Detecting ranges using logical operators
+3.9 Example: Toll calculation
+3.10 Order of evaluation
+3.11 Switch statements
+3.12 Boolean data type
+3.13 String comparisons
+3.14 String access operations
+3.15 Character operations
+3.16 Conditional expressions
+3.17 Floating-point comparison
+3.18 Short circuit evaluation
+3.19 C example: Salary calculation with branches
+3.20 C example: Search for name using branches
+
+4. Loops
+4.2 While loops
+4.4 For loops
+4.6 Loops and strings
+4.7 Nested loops
+4.9 Break and continue
+4.10 Variable name scope
+4.11 Enumerations
+4.12 C example: Salary calculation with loops
+
+5. Arrays
+5.2 Arrays
+5.3 Array iteration drill
+5.4 Iterating through arrays
+5.6 Swapping two variables (general)
+5.7 Using a loop to modify or copy an array
+5.9 Two-dimensional arrays
+5.10 Char arrays / C strings
+5.11 String library functions
+5.12 Char library functions: ctype
+5.13 Arrays and strings
+
+6. User-Defined Functions
+6.2 Print functions
+6.4 Writing mathematical functions
+6.10 Pass by pointer
+6.11 Functions with array parameters
+6.12 Functions with C string parameters
+6.14 Scope of variable/function definitions
+6.16 Preprocessor and include
+6.17 Separate files
+6.18 C example: Salary calculation with functions
+
+7. Structs
+7.2 Structs and functions
+7.3 Structs and arrays
+7.5 Separate files for structs
+
+8. Pointers
+8.1 Why pointers: Pass by pointer example
+8.3 The malloc and free functions
+8.4 Pointers with structs
+8.5 String functions with pointers
+8.6 The malloc function for arrays and strings
+8.7 The realloc function
+8.8 Vector ADT
+8.10 A first linked list
+8.11 Memory regions: Heap/Stack
+8.12 Memory leaks
+8.13 C example: Employee list using vector ADT
+
+9. Input / Output
+9.1 The stdout and stdin file pointers
+9.2 Output formatting
+9.3 Input parsing
+9.4 File input and output
+
+10. Recursion
+10.2 Recursive functions
+10.3 Recursive algorithm: Search
+10.6 Recursive math functions
+10.8 Stack overflow
+
+11. Searching and Sorting Algorithms
+11.2 Binary search
+11.3 O notation
+11.4 Algorithm analysis
+11.6 Selection sort
+11.7 Insertion sort
+11.8 Quicksort
+11.9 Merge sort
+
+12. Additional Material
+12.1 Do-while loops
+12.3 Command-line arguments
+12.9 Command-line arguments and files
